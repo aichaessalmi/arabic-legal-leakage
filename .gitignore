@@ -1,0 +1,12 @@
+# Court decisions are NOT redistributed (personal data)
+CORPUS_PROCESSED/
+DATASET_MASKED*/
+DATASET_BODY_V3/
+*.jsonl.gz
+*.txt.bak
+# Large or temporary outputs
+results*/models/
+results*/tmp/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
